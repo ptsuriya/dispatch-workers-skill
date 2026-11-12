@@ -6,6 +6,8 @@
 
 Plan small tickets · hand them to free or low-cost CLIs first · verify every result · review with a different model · hand off cleanly
 
+**English** · [ไทย](README.th.md)
+
 [![Install](https://img.shields.io/badge/install-npx%20skills%20add-black?logo=npm)](#install)
 [![Agent skill](https://img.shields.io/badge/agent-skill-blueviolet)](https://skills.sh/)
 [![Works with](https://img.shields.io/badge/works%20with-Claude%20Code%20%7C%20Codex%20%7C%20Cursor-lightgrey)](https://skills.sh/)
