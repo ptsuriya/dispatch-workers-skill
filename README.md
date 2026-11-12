@@ -47,7 +47,7 @@ flowchart LR
 ## Install
 
 ```bash
-npx skills add ptsuriya/dispatch-workers
+npx skills add ptsuriya/dispatch-workers-skill
 ```
 
 Add `-g` for a user-level install. Then ask your agent to dispatch some work, or invoke the skill by name.
